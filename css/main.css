@@ -4,6 +4,7 @@ body {
 
 p {
     background-color: azure;
+    display: inline;
 }
 
 a {
